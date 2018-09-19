@@ -30,10 +30,10 @@ Curtiu? Se candidate da seguinte maneira:
    * Crie um método GET que retorne esses candidados ordernados na path "http://localhost/candidados/";
    
 3) Tente resolver os seguintes problemas no "codewars.com", não é necessária a resolução de todos, quanto mais melhor, PS. RESOLVA NA LINGUAGEM JAVA:
-a) https://www.codewars.com/kata/backwards-read-primes/
-b) https://www.codewars.com/kata/bouncing-balls
-c) https://www.codewars.com/kata/multiples-of-3-or-5
-
+   * a) https://www.codewars.com/kata/backwards-read-primes/
+   * b) https://www.codewars.com/kata/bouncing-balls
+   * c) https://www.codewars.com/kata/multiples-of-3-or-5
+   
 4) Crie uma pasta "codewars" e para cada link acima resolvido crie um arquivo dentro dessa pasta com a respectiva letra e com o código da resolução dentro, exemplo "A.java".
 
 5) Após realizar os passos acima crie um repositorio na sua conta do <b>GitHub</b> suba tudo o que foi pedido acima e nos mande um email com o titulo "triggdevops/job-8001" com o link do repositorio, quanto tempo mais ou menos você demorou para resolução de tudo, seus dados pessoais (nome e celular) para: debora.herman@cbyk.com.br
@@ -48,4 +48,4 @@ DICAS:
 <br>-> Qualquer ponto que não tenha ficado claro pode ser questionado por uma issue aqui mesmo
 
 DE JEITO NENHUM faça fork ou pull request nesse git pois assim outros candidatos vão poder copiar sua resolução :(
-Boa sorte! "Good Luck have fun";
+<br>Boa sorte! "Good Luck have fun";
