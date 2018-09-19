@@ -36,14 +36,16 @@ c) https://www.codewars.com/kata/multiples-of-3-or-5
 
 4) Crie uma pasta "codewars" e para cada link acima resolvido crie um arquivo dentro dessa pasta com a respectiva letra e com o código da resolução dentro, exemplo "A.java".
 
-5) Após realizar os passos acima crie um repositorio na sua conta do <b>GitHub</b> suba tudo o que foi pedido acima e nos mande um email com o titulo "triggdevops/job-8001" com o link do repositorio, quanto tempo mais ou menos você demorou para resolução de tudo e seus dados pessoais (nome e celular) para: debora.herman@cbyk.com.br
+5) Após realizar os passos acima crie um repositorio na sua conta do <b>GitHub</b> suba tudo o que foi pedido acima e nos mande um email com o titulo "triggdevops/job-8001" com o link do repositorio, quanto tempo mais ou menos você demorou para resolução de tudo, seus dados pessoais (nome e celular) para: debora.herman@cbyk.com.br
 
-Bonûs
--> Coloque um Dockerfile que execute o seu serviço para que a gente possa rodar mais facíl :)
+BÔNUS:
+<br>-> Coloque um Dockerfile que execute o seu serviço para que a gente possa rodar mais facíl :)
 
 DICAS:
--> (caso não tenho Dockerfile): Para facilitar nossos testes e entendimento monte um passo a passo para iniciar o seu projeto;
--> Utilize gradle ou maven;
+<br>-> (caso não tenho Dockerfile): Para facilitar nossos testes e entendimento monte um passo a passo para iniciar o seu projeto;
+<br>-> Utilize gradle ou maven;
+<br>-> Caso não tenha conseguido fazer tudo que foi pedido, envie o que você fez e explique no e-mail o que aconteceu... 
+<br>-> Qualquer ponto que não tenha ficado claro pode ser questionado por uma issue aqui mesmo
 
 DE JEITO NENHUM faça fork ou pull request nesse git pois assim outros candidatos vão poder copiar sua resolução :(
 Boa sorte! "Good Luck have fun";
