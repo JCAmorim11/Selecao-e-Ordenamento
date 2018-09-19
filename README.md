@@ -2,23 +2,23 @@ Título:
 Analista DevOPS Java + Amazon Web Services
 
 Descrição:
--> Atuação com desenvolvimento de micro-serviços, em sua maioria JAVA 8 (batches, apis restfull, leitores de fila e etc);
--> Integração com micro-serviços internos e de parceiros;
--> Criação dos processos de entrega continua para que o código seja facilmente implantado e distribuido em produção (utilizando CodeBuild, CodeDeploy, CodePipeline);
--> Desenvolvimento de aplicações serverless;
+<br>-> Atuação com desenvolvimento de micro-serviços, em sua maioria JAVA 8 (batches, apis restfull, leitores de fila e etc);
+<br>-> Integração com micro-serviços internos e de parceiros;
+<br>-> Criação dos processos de entrega continua para que o código seja facilmente implantado e distribuido em produção (utilizando CodeBuild, CodeDeploy, CodePipeline);
+<br>-> Desenvolvimento de aplicações serverless;
 
 Necessário:
--> Solido conheciemento em orientação a objeto;
--> Experiência com java8, micro-serviços, API RESTFULL, SPRING (boot);
--> Experiência com banco de dados (queries básicas: select, update, inner join e etc);
--> Conhecimentos solidos nas funcionalidades basicas do git (pull, push, merge, branch e etc);
--> Inglês para leitura de documentações e etc;
+<br>-> Solido conheciemento em orientação a objeto;
+<br>-> Experiência com java8, micro-serviços, API RESTFULL, SPRING (boot);
+<br>-> Experiência com banco de dados (queries básicas: select, update, inner join e etc);
+<br>-> Conhecimentos solidos nas funcionalidades basicas do git (pull, push, merge, branch e etc);
+<br>-> Inglês para leitura de documentações e etc;
 
 Diferencial:
--> Experiência/Conhecimento com serverless (de preferência AWS LAMBDA);
--> Experiência/Conhecimento com qualquer serviço AWS (por exemplo: SQS, API Gateway, Rekognition, RDS, DynamoDB, ECS, ECR e etc);
--> Experiência/Conhecimento com Docker;
--> Experiência/Conhecimento com autenticação robusta de API (oAuth2).
+<br>-> Experiência/Conhecimento com serverless (de preferência AWS LAMBDA);
+<br>-> Experiência/Conhecimento com qualquer serviço AWS (por exemplo: SQS, API Gateway, Rekognition, RDS, DynamoDB, ECS, ECR e etc);
+<br>-> Experiência/Conhecimento com Docker;
+<br>-> Experiência/Conhecimento com autenticação robusta de API (oAuth2).
 
 
 Curtiu? Se candidate da seguinte maneira:
