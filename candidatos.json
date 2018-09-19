@@ -1,0 +1,11 @@
+{
+"recrutador":"Debora Herman",
+"dtAberturaVaga":"2018-09-19",
+"candidados":[
+{"nome":"joao", "dtNascimento":"1990-03-21", "vaga":"Java Devops 8001"},
+{"nome":"joao", "dtNascimento":"1990-03-20", "vaga":"Java Devops 8002"},
+{"nome":"joao", "dtNascimento":"1982-12-10", "vaga":"Java Devops 8002"},
+{"nome":"joao", "dtNascimento":"1999-12-23", "vaga":"Java Devops 8002"},
+{"nome":"joao", "dtNascimento":"1987-05-03", "vaga":"Java Devops 8003"}
+]
+}
