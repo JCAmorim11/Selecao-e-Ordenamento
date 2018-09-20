@@ -36,7 +36,7 @@
    
 4. Crie uma pasta **codewars** e para cada link acima resolvido crie um arquivo dentro dessa pasta com a respectiva letra e com o código da resolução dentro, exemplo `seu_repo/codewars/A.java`.
 
-5. Após realizar os passos acima mande um email com o titulo **triggdevops/job-8001** com o link do seu repositório, quanto tempo mais ou menos você demorou para resolução de tudo, seus dados pessoais (nome e celular) para: debora.herman@cbyk.com.br
+5. Após realizar os passos acima mande um email com o titulo **triggdevops/job-8001** com o link do seu repositório, quanto tempo mais ou menos você demorou para resolução de tudo, seus dados pessoais (nome e celular) para: <b>talentos@trigg.com.br</b>
 
 ----
 
