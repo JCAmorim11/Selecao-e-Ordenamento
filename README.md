@@ -28,7 +28,7 @@
    - Leia o arquivo  [candidatos.json](/candidatos.json) dentro do seu micro-serviço;
    - Ordene os candidados por idade;
    - Crie um método GET que retorne esses candidados ordernados na path `http://localhost/candidados/`;
-   - O método GET acima precisa receber os parâmetros adicionais `?fromAge=10&toAge=20` e apenas cadidatos nesse range de idade devem ser retornados.
+   - O método GET acima precisa receber os parâmetros opcionais `?fromAge=10&toAge=20` e apenas cadidatos nesse range de idade devem ser retornados.
 3. Após realizar os passos acima mande um email com o titulo **triggdevops/job-8001** com o link do seu repositório <github.com/[[seuuser]]/[[nome_que_vc_quiser]]> para: <b>github@trigg.com.br</b>
 
 ----
@@ -37,8 +37,7 @@
 - Coloque um `Dockerfile` que execute o seu serviço para que a gente possa rodar mais facíl :smiley:
 
 #### DICAS:
-- Caso não tenho Dockerfile, Para facilitar nossos testes e entendimento monte um passo a passo para iniciar o seu projeto;
-- Utilize gradle ou maven;
+- Para facilitar nossos testes e entendimento monte um passo a passo para iniciar o seu projeto, ex: 'clone o projeto e execute docker . -p80:80'
 - Caso não tenha conseguido fazer tudo que foi pedido, envie o que você fez e explique no e-mail o que aconteceu... 
 - Qualquer ponto que não tenha ficado claro pode ser questionado por uma issue aqui mesmo
 
