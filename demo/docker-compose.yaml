@@ -1,0 +1,35 @@
+  version: "3.8"
+  services:
+    api_service:
+      build:
+        context: ./
+        dockerfile: Dockerfile
+      restart: always
+      ports:
+        - 8888:8888
+      depends_on:
+        - docker-mysql
+      networks:
+        - net-backend
+    docker-mysql:
+      image: "mysql:5.7"
+      restart: always
+      ports:
+        - 3306:3306
+      environment:
+        MYSQL_DATABASE: candidatos
+        MYSQL_ROOT_PASSWORD: root
+      networks:
+        - net-backend
+    python_service:
+        build:
+          context: ./
+          dockerfile: Dockerfile-python
+        depends_on:
+          - docker-mysql
+        networks:
+          - net-backend
+
+  networks:
+    net-backend:
+      driver: bridge

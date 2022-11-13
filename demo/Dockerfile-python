@@ -1,0 +1,5 @@
+FROM python:3.10
+COPY insertData.py .
+COPY candidatos.json .
+RUN pip install pymysql
+RUN python insertData.py
